@@ -1,4 +1,4 @@
-with open(r"C:\Users\hi\OneDrive\Desktop\VITB notes\Python Self study\AOC_2023\day1_input.txt",'r')as text:
+with open(r"2023/Day 1/Input.txt",'r')as text:
     text = text.readlines()
     text = list(map(lambda x: x.strip(),text))
 
